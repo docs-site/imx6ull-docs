@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 目录
-      link: /sdoc/126b07e425cf34050557ccbe
+      link: /sdoc/126b0ebf2f4108eab1cf569f
     - theme: alt
       text: 导航
       link: /Navigation
